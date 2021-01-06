@@ -1,21 +1,23 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
 {
     "configurations": [
         {
-            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
-        },
-        {
-            "name": "Win32",
+            "name": "PlatformIO",
             "includePath": [
-                "c:/Users/gabri/Desktop/Projeto CARLOS/include",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/src",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/lib/NTPClient",
+                "c:/Users/gabri/Documents/Projeto Carlos/include",
+                "c:/Users/gabri/Documents/Projeto Carlos/src",
+                "c:/Users/gabri/Documents/Projeto Carlos/lib/NTPClient",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/lib/DHT",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/lib/DallasTemperature",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/lib/OneWire",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/lib/Adafruit_Sensor",
+                "c:/Users/gabri/Documents/Projeto Carlos/lib/DHT",
+                "c:/Users/gabri/Documents/Projeto Carlos/lib/DallasTemperature",
+                "c:/Users/gabri/Documents/Projeto Carlos/lib/OneWire",
+                "c:/Users/gabri/Documents/Projeto Carlos/lib/Adafruit_Sensor",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -74,10 +76,11 @@
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/fb_gfx",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/variants/esp32",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/.pio/libdeps/esp32dev/ESPAsyncUDP/src",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/.pio/libdeps/esp32dev/NTPClient",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/.pio/libdeps/esp32dev/NtpClientLib/src",
-                "c:/Users/gabri/Desktop/Projeto CARLOS/.pio/libdeps/esp32dev/Time",
+                "c:/Users/gabri/Documents/Projeto Carlos/lib/Keyboard",
+                "c:/Users/gabri/Documents/Projeto Carlos/.pio/libdeps/esp32dev/ESPAsyncUDP/src",
+                "c:/Users/gabri/Documents/Projeto Carlos/.pio/libdeps/esp32dev/NTPClient",
+                "c:/Users/gabri/Documents/Projeto Carlos/.pio/libdeps/esp32dev/NtpClientLib/src",
+                "c:/Users/gabri/Documents/Projeto Carlos/.pio/libdeps/esp32dev/Time",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/AzureIoT/src",
@@ -107,16 +110,16 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/include",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/src",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/lib/NTPClient",
+                    "c:/Users/gabri/Documents/Projeto Carlos/include",
+                    "c:/Users/gabri/Documents/Projeto Carlos/src",
+                    "c:/Users/gabri/Documents/Projeto Carlos/lib/NTPClient",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/lib/DHT",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/lib/DallasTemperature",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/lib/OneWire",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/lib/Adafruit_Sensor",
+                    "c:/Users/gabri/Documents/Projeto Carlos/lib/DHT",
+                    "c:/Users/gabri/Documents/Projeto Carlos/lib/DallasTemperature",
+                    "c:/Users/gabri/Documents/Projeto Carlos/lib/OneWire",
+                    "c:/Users/gabri/Documents/Projeto Carlos/lib/Adafruit_Sensor",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -175,10 +178,11 @@
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/fb_gfx",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/variants/esp32",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/.pio/libdeps/esp32dev/ESPAsyncUDP/src",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/.pio/libdeps/esp32dev/NTPClient",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/.pio/libdeps/esp32dev/NtpClientLib/src",
-                    "c:/Users/gabri/Desktop/Projeto CARLOS/.pio/libdeps/esp32dev/Time",
+                    "c:/Users/gabri/Documents/Projeto Carlos/lib/Keyboard",
+                    "c:/Users/gabri/Documents/Projeto Carlos/.pio/libdeps/esp32dev/ESPAsyncUDP/src",
+                    "c:/Users/gabri/Documents/Projeto Carlos/.pio/libdeps/esp32dev/NTPClient",
+                    "c:/Users/gabri/Documents/Projeto Carlos/.pio/libdeps/esp32dev/NtpClientLib/src",
+                    "c:/Users/gabri/Documents/Projeto Carlos/.pio/libdeps/esp32dev/Time",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "C:/Users/gabri/.platformio/packages/framework-arduinoespressif32/libraries/AzureIoT/src",
@@ -207,7 +211,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=50001",
+                "PLATFORMIO=50004",
                 "ARDUINO_ESP32_DEV",
                 "ESP32",
                 "ESP_PLATFORM",
@@ -220,7 +224,6 @@
                 "ARDUINO_BOARD=\"Espressif ESP32 Dev Module\"",
                 ""
             ],
-            "intelliSenseMode": "clang-x64",
             "cStandard": "c99",
             "cppStandard": "c++11",
             "compilerPath": "C:/Users/gabri/.platformio/packages/toolchain-xtensa32/bin/xtensa-esp32-elf-gcc.exe",
